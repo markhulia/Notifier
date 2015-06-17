@@ -6,7 +6,8 @@ package com.notifier;
  * This class is a placeholder for public variables
  */
 public class Globals {
-    public static final String URL = "http://10.0.1.5:2604/webservice/";
+    //emulator ip address
+    public static final String URL = "http://10.0.2.2:2604/webservice/";
     public static final String TAG_ROW_NUMBER = "rowNr";
     public static final String TAG_ITEM_NAME = "item_name";
     public static final String TAG_ITEM_LOCATION = "item_location";
