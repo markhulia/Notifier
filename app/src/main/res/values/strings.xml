@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">Notifier</string>
+    <string name="username_textview">Username:</string>
+    <string name="password_textview">Password:</string>
+    <string name="submit">Submit</string>
+    <string name="intro_text">This is a placeholder for any activity that a user might be required
+        to perform before starting picking routine.</string>
+    <string name="viewReport_resetDatabase">Reset Database</string>
+    <string name="current_item">Current Item</string>
+    <string name="report">Report</string>
+    <string name="update">Update</string>
+    <string name="passwords_not_same">Passwords don\'t match</string>
+    <string name="title">Title</string>
+    <string name="title_activity_activity_action_feedback">ActionFeedback_Activity</string>
+    <string name="title_activity_action_feedback">ActionFeedbackActivity</string>
+    <string name="number_of_packages_hint">Enter</string>
+    <string name="update_button">Update</string>
+    <string name="start">Start</string>
+</resources>
